@@ -72,6 +72,10 @@
 		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
 		}
 	]
 }
